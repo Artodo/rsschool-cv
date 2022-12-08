@@ -32,3 +32,21 @@ I'm 31 years old. I lead an active lifestyle, I like sports and live communicati
 ##Experience
 
 ----
+
+
+##Education
+* Belarusian State University of Physical Education
+    * Tourism management
+* Сourses
+    * [Основы веб разработки. HTML и CSS](https://www.udemy.com/course/html5-oz/)
+    * [HTML/CSS](https://htmlacademy.ru/courses)
+
+
+----
+
+##Languages
+
+----
+
+* Russian - native speaker.
+* English - A1 (I'm learning English with a teacher)
