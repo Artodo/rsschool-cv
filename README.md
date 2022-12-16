@@ -1,2 +1,2 @@
 
-https://artodo.github.io/rsschool-cv/cv
+https://artodo.github.io/rsschool-cv/
