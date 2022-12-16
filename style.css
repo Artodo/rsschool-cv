@@ -1,0 +1,134 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+}
+
+.CV3 {
+    border: 2px solid black;
+    padding: 10px;
+    font-size: 23px;
+    line-height: 27px;
+    width: 70%;
+    margin: 50px auto;
+    flex-direction: column;
+}
+
+h1 {
+    border: 2px solid black;
+    padding-left: 20%;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    font-weight: 700;
+}
+
+h2 {
+    margin: 4%;
+    padding-left: 4%;
+    text-align: center;
+    font-weight: 600;
+    padding-bottom: 20px;
+}
+
+.header-title {
+    margin: 0;
+}
+
+nav {
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    width: 30%;
+}
+
+.Contact-Info {
+    margin-top: 30%;
+}
+
+.nav-title {
+    margin-top: 30%;
+    padding-bottom: 0px;
+}
+
+
+/* main */
+
+section {
+    width: 70%;
+}
+
+.main-site {
+    display: flex;
+}
+
+.Skills {
+    margin-top: 40px;
+}
+
+.photo {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+
+.code-example {
+    /* margin-bottom: 10%;
+    margin-left: 10%; */
+}
+
+.code {
+    background-color: rgba(212, 211, 210, 0.541);
+}
+
+.Experience {
+    margin: 10px;
+    padding-top: 30px;
+}
+
+.Languages {
+    margin: 10px;
+}
+
+
+/* footer */
+
+footer {
+    display: flex;
+}
+
+.footer-cont {
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    align-items: center;
+}
+
+
+/* .footer-cont */
+
+.logo {
+    border-radius: 50%;
+}
+
+.logorsshool {
+    border-radius: 50%;
+}
+
+.footer-title {
+    font-size: 20px;
+}
+
+.link {
+    color: black;
+}
+
+.link:hover {
+    opacity: 0.5;
+    text-decoration: none;
+}
+
+.content-style {
+    margin: 10px;
+}
+
+h3 {
+    padding-left: 10px;
+}
